@@ -3,13 +3,13 @@ Example files and instructions for SI 625 Preservation Metadata lecture and exer
 
 ##Requirements/Setup
 
-* Install [Python 2.7](https://www.python.org/)
-** Install [pip](https://pip.pypa.io/en/stable/installing/) if necessary (new installations of Python should come with pip)
-* Install [lxml](http://lxml.de/)
-** Try `pip install lxml`
-** Windows: Download and install lxml-3.4.4.win32-py2.7.exe from the lxml [Python Package Index](https://pypi.python.org/pypi/lxml/3.4.4)
-** Mac: You may need to install Xcode if you have not already done so
-* Clone or download a ZIP of this repo
+1 Install [Python 2.7](https://www.python.org/)
+  * Install [pip](https://pip.pypa.io/en/stable/installing/) if necessary (new installations of Python should come with pip)
+2 Install [lxml](http://lxml.de/)
+  * Try `pip install lxml`
+  * Windows: Download and install lxml-3.4.4.win32-py2.7.exe from the lxml [Python Package Index](https://pypi.python.org/pypi/lxml/3.4.4)
+  * Mac: You may need to install Xcode if you have not already done so
+3 Clone or download a ZIP of this repo
 
 ##Introduction
 
